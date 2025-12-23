@@ -2,6 +2,8 @@
 
 A modern, responsive online learning platform built with React, Vite, and Tailwind CSS. AstroLearn provides an intuitive interface for discovering and exploring courses across various categories.
 
+🔗 Live Link : https://astro-learn-sigma.vercel.app/
+
 ## Features
 
 - 🚀 **Fast Development** — Vite with Hot Module Replacement (HMR)

@@ -1,0 +1,68 @@
+AstroLearn Project Configuration Overview
+Date: 2025-12-23
+
+Project
+- Name: astrolearn
+- Version: 0.0.0
+- Type: ESM ("type": "module")
+
+Scripts (package.json)
+- dev: vite
+- build: vite build
+- preview: vite preview
+- lint: eslint .
+
+Core Tooling
+- Vite: ^7.2.4
+- React: ^19.2.0
+- React DOM: ^19.2.0
+- React Router: ^7.11.0 (using nested entrypoints)
+- Tailwind CSS: ^4.1.18 with @tailwindcss/vite plugin (^4.1.18)
+- ESLint (flat config): ^9.39.1
+- React Icons: ^5.5.0 (installed)
+
+Vite Config (vite.config.js)
+- Plugins: @vitejs/plugin-react, @tailwindcss/vite
+- No custom base/build/server options set (defaults in use)
+
+ESLint Config (eslint.config.js)
+- Flat config via eslint/config
+- Extends: @eslint/js recommended, react-hooks recommended, react-refresh vite config
+- Global ignores: dist
+- Language: ES2020 modules with JSX
+- Rule: no-unused-vars error; allows vars matching ^[A-Z_] (e.g., constants)
+
+Entry & Routing
+- Entry HTML: index.html mounts <div id="root"></div> and loads /src/main.jsx
+- main.jsx: wraps app in React StrictMode and provides router via RouterProvider from "react-router/dom"
+- routes.jsx: creates router with createBrowserRouter from "react-router"
+  - Routes:
+    - /          → Root layout; child route Home (index), loader fetches /courses.json
+    - /allCourses → AllCourses (index), loader fetches /courses.json
+    - /course/:id → CourseDetails (index), loader fetches /courses.json
+  - errorElement: <ErrorPage /> at root level
+- Data source: public/courses.json (present)
+
+Tailwind CSS
+- index.css imports Tailwind v4 using: @import "tailwindcss";
+- Custom theme variables defined via @theme (colors, fonts)
+
+HTML & Assets
+- Favicon: ./src/assets/Images/icon_AL.svg (verify file exists; folder contains subfolders Article/Avatar/Course — icon file may be missing)
+
+Notable Observations
+- React Router v7 nested entrypoints: imports from "react-router" and "react-router/dom" are consistent with v7 API.
+- No TypeScript; uses plain JSX with ESM.
+- No custom Vite base path; ensure deployment at site root or set base as needed.
+
+Quick Commands
+- Start dev server: npm run dev
+- Lint: npm run lint
+- Build: npm run build
+- Preview build: npm run preview
+
+Suggested Checks
+- Confirm favicon path exists or update index.html link.
+- If deploying to a subpath, set base in vite.config.js.
+- Ensure Tailwind v4 PostCSS-less setup is acceptable for your pipeline.
+- Verify loaders access /courses.json under the dev server/prod build.

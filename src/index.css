@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&family=Press+Start+2P&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-bronze: #d4a373;
+  --color-papaya: #faedcd;
+  --color-cornsilk: #fefae0;
+  --color-beige: #e9edc9;
+  --color-teagreen: #ccd5ae;
+
+  --font-oxanium: "Oxanium", sans-serif;
+  --font-press: "Press Start 2P", system-ui;
+}

@@ -32,29 +32,29 @@ const FeaturedCourses = ({ data }) => {
           {courses.slice(0, 6).map((course) => (
             <div
               key={course.id}
-              className="group border rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300"
+              className="group bg-teagreen border rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300"
             >
               {/* 1. Course image/thumbnail */}
               <div className="relative">
                 <img
                   src={course.thumbnail}
                   alt={course.title}
-                  className="w-full h-52 object-cover group-hover:scale-105 transition-transform duration-500"
+                  className="w-full bg-beige object-cover group-hover:scale-105 transition-transform duration-500 p-5"
                 />
                 {/* 2. Category tag */}
-                <span className="absolute top-4 left-4 bg-teagreen backdrop-blur-sm text-gray-700 text-xs font-bold px-3 py-1 rounded-full shadow-sm">
+                <span className="absolute top-4 left-4 bg-bronze backdrop-blur-sm text-gray-700 text-xs font-bold px-3 py-1 rounded-full shadow-sm">
                   {course.category}
                 </span>
               </div>
 
               <div className="p-6">
                 {/* 3. Title of the course */}
-                <h3 className="text-xl font-bold text-bronze line-clamp-2 h-14">
+                <h3 className="text-xl font-bold text-gray-700 line-clamp-2 h-14">
                   {course.title}
                 </h3>
 
                 {/* 4. Author/instructor name */}
-                <p className="text-gray-500 text-sm mt-2 flex items-center gap-2">
+                <p className="text-gray-500 text-sm flex items-center gap-2">
                   by{" "}
                   <span className="text-gray-900 font-medium">
                     {course.instructor}
@@ -62,7 +62,7 @@ const FeaturedCourses = ({ data }) => {
                 </p>
 
                 {/* 5. Meta-info */}
-                <div className="flex items-center justify-between mt-6 pt-4 border-t border-gray-100">
+                <div className="flex items-center justify-between mt-3 pt-4 border-t border-gray-100">
                   <div className="flex items-center gap-4 text-gray-500 text-xs">
                     <span className="flex items-center gap-1">
                       🕒 {course.duration}

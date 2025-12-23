@@ -20,7 +20,10 @@ const Navbar = () => {
     <div className="flex items-center justify-between py-5 md:block">
       <a href="javascript:void(0)">
         <div className="flex items-center space-x-3">
-          <img src="./src/assets/Images/icon_AL.svg" className="w-12" />
+          <img
+            src="https://i.ibb.co.com/zVK9xbyw/accounts-people-person-human-group-support-team-diversity-astronaut-outerspace-planet.png"
+            className="w-12"
+          />
           <p className="font-bold text-xl text-bronze font-press flex gap-2">
             Astro <span className="text-teagreen">Learn</span>
           </p>

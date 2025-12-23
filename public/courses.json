@@ -38,7 +38,7 @@
         "duration": "12h",
         "lessons": 45,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/1.png"
+        "thumbnail": "https://i.ibb.co.com/MyYYqngG/1.png"
       },
       {
         "id": 2,
@@ -52,7 +52,7 @@
         "duration": "8h",
         "lessons": 22,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/2.png"
+         "thumbnail": "https://i.ibb.co.com/20L5B5j1/2.png"
       },
       {
         "id": 3,
@@ -66,7 +66,7 @@
         "duration": "35h",
         "lessons": 110,
         "badge": "Highest Rated",
-         "thumbnail": "../src/assets/Images/Course/3.png"
+         "thumbnail": "https://i.ibb.co.com/MkSmCxYY/3.png"
       },
       {
         "id": 4,
@@ -80,7 +80,7 @@
         "duration": "22h",
         "lessons": 85,
         "badge": "Hot & New",
-         "thumbnail": "../src/assets/Images/Course/4.png"
+         "thumbnail": "https://i.ibb.co.com/FL7SrHLt/4.png"
       },
       {
         "id": 5,
@@ -94,7 +94,7 @@
         "duration": "5h",
         "lessons": 15,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/5.png"
+        "thumbnail": "https://i.ibb.co.com/Gf2db4j3/5.png"
       },
       {
         "id": 6,
@@ -108,7 +108,7 @@
         "duration": "4h",
         "lessons": 12,
         "badge": "Free",
-        "thumbnail": "../src/assets/Images/Course/6.png"
+        "thumbnail": "https://i.ibb.co.com/tTq26Swt/6.png"
       },
       {
         "id": 7,
@@ -122,7 +122,7 @@
         "duration": "28h",
         "lessons": 140,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/7.png"
+        "thumbnail": "https://i.ibb.co.com/jvvvSQcT/7.png"
       },
       {
         "id": 8,
@@ -136,7 +136,7 @@
         "duration": "14h",
         "lessons": 60,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/8.png"
+         "thumbnail": "https://i.ibb.co.com/1Sc0b3s/8.png"
       },
       {
         "id": 9,
@@ -150,7 +150,7 @@
         "duration": "18h",
         "lessons": 72,
         "badge": "Bestseller",
-         "thumbnail": "../src/assets/Images/Course/9.png"
+         "thumbnail": "https://i.ibb.co.com/JwjRyk1C/9.png"
       },
       {
         "id": 10,
@@ -164,7 +164,7 @@
         "duration": "44h",
         "lessons": 200,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/10.png"
+         "thumbnail": "https://i.ibb.co.com/7N6s0rgz/10.png"
       },
       {
         "id": 11,
@@ -178,7 +178,7 @@
         "duration": "30h",
         "lessons": 120,
         "badge": "Highest Rated",
-         "thumbnail": "../src/assets/Images/Course/11.png"
+         "thumbnail": "https://i.ibb.co.com/CsJ0JyLH/11.png"
       },
       {
         "id": 12,
@@ -192,7 +192,7 @@
         "duration": "3h",
         "lessons": 25,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/12.png"
+         "thumbnail": "https://i.ibb.co.com/jvCRM10v/12.png"
       },
       {
         "id": 13,
@@ -206,7 +206,7 @@
         "duration": "15h",
         "lessons": 95,
         "badge": "Bestseller",
-         "thumbnail": "../src/assets/Images/Course/1.png"
+         "thumbnail": "https://i.ibb.co.com/MyYYqngG/1.png"
       },
       {
         "id": 14,
@@ -220,7 +220,7 @@
         "duration": "12h",
         "lessons": 55,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/2.png"
+         "thumbnail": "https://i.ibb.co.com/20L5B5j1/2.png"
       },
       {
         "id": 15,
@@ -234,7 +234,7 @@
         "duration": "25h",
         "lessons": 150,
         "badge": "Bestseller",
-         "thumbnail": "../src/assets/Images/Course/3.png"
+         "thumbnail": "https://i.ibb.co.com/MkSmCxYY/3.png"
       },
       {
         "id": 16,
@@ -248,7 +248,7 @@
         "duration": "6h",
         "lessons": 18,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/4.png"
+        "thumbnail": "https://i.ibb.co.com/FL7SrHLt/4.png"
       },
       {
         "id": 17,
@@ -262,7 +262,7 @@
         "duration": "4h",
         "lessons": 14,
         "badge": "Bestseller",
-         "thumbnail": "../src/assets/Images/Course/4.png"
+         "thumbnail": "https://i.ibb.co.com/FL7SrHLt/4.png"
       },
       {
         "id": 18,
@@ -276,7 +276,7 @@
         "duration": "21h",
         "lessons": 105,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/5.png"
+        "thumbnail": "https://i.ibb.co.com/Gf2db4j3/5.png"
       },
       {
         "id": 19,
@@ -290,7 +290,7 @@
         "duration": "10h",
         "lessons": 48,
         "badge": "Hot & New",
-        "thumbnail": "../src/assets/Images/Course/6.png"
+        "thumbnail": "https://i.ibb.co.com/tTq26Swt/6.png"
       },
       {
         "id": 20,
@@ -304,7 +304,7 @@
         "duration": "14h",
         "lessons": 52,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/7.png"
+        "thumbnail": "https://i.ibb.co.com/jvvvSQcT/7.png"
       },
       {
         "id": 21,
@@ -318,7 +318,7 @@
         "duration": "7h",
         "lessons": 40,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/8.png"
+        "thumbnail": "https://i.ibb.co.com/1Sc0b3s/8.png"
       },
       {
         "id": 22,
@@ -332,7 +332,7 @@
         "duration": "29h",
         "lessons": 180,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/9.png"
+        "thumbnail": "https://i.ibb.co.com/JwjRyk1C/9.png"
       },
       {
         "id": 23,
@@ -346,7 +346,7 @@
         "duration": "9h",
         "lessons": 88,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/10.png"
+        "thumbnail": "https://i.ibb.co.com/7N6s0rgz/10.png"
       },
       {
         "id": 24,
@@ -360,7 +360,7 @@
         "duration": "4h",
         "lessons": 20,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/11.png"
+        "thumbnail": "https://i.ibb.co.com/CsJ0JyLH/11.png"
       },
       {
         "id": 25,
@@ -374,7 +374,7 @@
         "duration": "19h",
         "lessons": 45,
         "badge": "Free",
-        "thumbnail": "../src/assets/Images/Course/12.png"
+        "thumbnail": "https://i.ibb.co.com/jvCRM10v/12.png"
       },
       {
         "id": 26,
@@ -388,7 +388,7 @@
         "duration": "22h",
         "lessons": 130,
         "badge": "Bestseller",
-         "thumbnail": "../src/assets/Images/Course/1.png"
+         "thumbnail": "https://i.ibb.co.com/MyYYqngG/1.png"
       },
       {
         "id": 27,
@@ -402,7 +402,7 @@
         "duration": "11h",
         "lessons": 42,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/2.png"
+        "thumbnail": "https://i.ibb.co.com/20L5B5j1/2.png"
       },
       {
         "id": 28,
@@ -416,7 +416,7 @@
         "duration": "2h",
         "lessons": 15,
         "badge": "Hot & New",
-         "thumbnail": "../src/assets/Images/Course/3.png"
+         "thumbnail": "https://i.ibb.co.com/MkSmCxYY/3.png"
       },
       {
         "id": 29,
@@ -430,7 +430,7 @@
         "duration": "5h",
         "lessons": 22,
         "badge": null,
-         "thumbnail": "../src/assets/Images/Course/4.png"
+         "thumbnail": "https://i.ibb.co.com/FL7SrHLt/4.png"
       },
       {
         "id": 30,
@@ -444,7 +444,7 @@
         "duration": "10h",
         "lessons": 35,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/5.png"
+        "thumbnail": "https://i.ibb.co.com/Gf2db4j3/5.png"
       },
       {
         "id": 31,
@@ -458,7 +458,7 @@
         "duration": "13h",
         "lessons": 65,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/6.png"
+        "thumbnail": "https://i.ibb.co.com/tTq26Swt/6.png"
       },
       {
         "id": 32,
@@ -472,7 +472,7 @@
         "duration": "3h",
         "lessons": 20,
         "badge": "Highest Rated",
-         "thumbnail": "../src/assets/Images/Course/6.png"
+         "thumbnail": "https://i.ibb.co.com/tTq26Swt/6.png"
       },
       {
         "id": 33,
@@ -486,7 +486,7 @@
         "duration": "21h",
         "lessons": 115,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/7.png"
+        "thumbnail": "https://i.ibb.co.com/jvvvSQcT/7.png"
       },
       {
         "id": 34,
@@ -500,7 +500,7 @@
         "duration": "8h",
         "lessons": 28,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/8.png"
+        "thumbnail": "https://i.ibb.co.com/1Sc0b3s/8.png"
       },
       {
         "id": 35,
@@ -514,7 +514,7 @@
         "duration": "35h",
         "lessons": 240,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/9.png"
+        "thumbnail": "https://i.ibb.co.com/JwjRyk1C/9.png"
       },
       {
         "id": 36,
@@ -528,7 +528,7 @@
         "duration": "6h",
         "lessons": 30,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/10.png"
+        "thumbnail": "https://i.ibb.co.com/7N6s0rgz/10.png"
       },
       {
         "id": 37,
@@ -542,7 +542,7 @@
         "duration": "18h",
         "lessons": 92,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/11.png"
+        "thumbnail": "https://i.ibb.co.com/CsJ0JyLH/11.png"
       },
       {
         "id": 38,
@@ -556,7 +556,7 @@
         "duration": "6h",
         "lessons": 24,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/12.png"
+        "thumbnail": "https://i.ibb.co.com/jvCRM10v/12.png"
       },
       {
         "id": 39,
@@ -570,7 +570,7 @@
         "duration": "20h",
         "lessons": 110,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/1.png"
+        "thumbnail": "https://i.ibb.co.com/MyYYqngG/1.png"
       },
       {
         "id": 40,
@@ -584,7 +584,7 @@
         "duration": "31h",
         "lessons": 145,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/2.png"
+        "thumbnail": "https://i.ibb.co.com/20L5B5j1/2.png"
       },
       {
         "id": 41,
@@ -598,7 +598,7 @@
         "duration": "25h",
         "lessons": 160,
         "badge": "Highest Rated",
-         "thumbnail": "../src/assets/Images/Course/3.png"
+         "thumbnail": "https://i.ibb.co.com/MkSmCxYY/3.png"
       },
       {
         "id": 42,
@@ -612,7 +612,7 @@
         "duration": "5h",
         "lessons": 19,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/4.png"
+        "thumbnail": "https://i.ibb.co.com/FL7SrHLt/4.png"
       },
       {
         "id": 43,
@@ -626,7 +626,7 @@
         "duration": "12h",
         "lessons": 55,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/5.png"
+        "thumbnail": "https://i.ibb.co.com/Gf2db4j3/5.png"
       },
       {
         "id": 44,
@@ -640,7 +640,7 @@
         "duration": "25h",
         "lessons": 105,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/6.png"
+        "thumbnail": "https://i.ibb.co.com/tTq26Swt/6.png"
       },
       {
         "id": 45,
@@ -654,7 +654,7 @@
         "duration": "18h",
         "lessons": 90,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/7.png"
+        "thumbnail": "https://i.ibb.co.com/jvvvSQcT/7.png"
       },
       {
         "id": 46,
@@ -668,7 +668,7 @@
         "duration": "15h",
         "lessons": 58,
         "badge": "Hot & New",
-        "thumbnail": "../src/assets/Images/Course/8.png"
+        "thumbnail": "https://i.ibb.co.com/1Sc0b3s/8.png"
       },
       {
         "id": 47,
@@ -682,7 +682,7 @@
         "duration": "4h",
         "lessons": 18,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/9.png"
+        "thumbnail": "https://i.ibb.co.com/JwjRyk1C/9.png"
       },
       {
         "id": 48,
@@ -696,7 +696,7 @@
         "duration": "22h",
         "lessons": 104,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/10.png"
+        "thumbnail": "https://i.ibb.co.com/7N6s0rgz/10.png"
       },
       {
         "id": 49,
@@ -710,7 +710,7 @@
         "duration": "30h",
         "lessons": 145,
         "badge": "Bestseller",
-        "thumbnail": "../src/assets/Images/Course/11.png"
+        "thumbnail": "https://i.ibb.co.com/CsJ0JyLH/11.png"
       },
       {
         "id": 50,
@@ -724,7 +724,7 @@
         "duration": "5h",
         "lessons": 25,
         "badge": null,
-        "thumbnail": "../src/assets/Images/Course/12.png"
+        "thumbnail": "https://i.ibb.co.com/jvCRM10v/12.png"
       }
     ]
   }

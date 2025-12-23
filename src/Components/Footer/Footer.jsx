@@ -72,7 +72,7 @@ const Footer = () => {
         <div className="flex-1">
           <div className="max-w-xs">
             <div className="flex items-center space-x-3">
-              <img src="./src/assets/Images/icon_AL.svg" className="w-16" />
+              <img src="https://i.ibb.co.com/zVK9xbyw/accounts-people-person-human-group-support-team-diversity-astronaut-outerspace-planet.png" className="w-16" />
               <p className="font-bold text-2xl text-bronze font-press flex gap-2">
                 Astro <span className="text-teagreen">Learn</span>
               </p>
